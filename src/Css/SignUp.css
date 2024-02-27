@@ -1,0 +1,45 @@
+
+.signup{
+    width: 40%;
+    height: max-content;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.signup2 .insta{
+  position: relative;
+  top: -30px;
+  padding: 5px;
+  height: 0px;
+}
+.fb{
+  background-color: #4CB5F9;
+  padding: 8px;
+  color: white;
+  border-radius: 5px;
+}
+.file input{
+  all: revert;
+  color: rgb(0, 166, 255);
+}
+.para{
+  width: 80%;
+  margin: auto;
+  color: rgb(139, 133, 133);
+}
+.logo img{
+  width: 150px;
+  height: 40px;
+  margin: 10px;
+}
+.logo p{
+  position: relative;
+  left: 100px;
+}
+.logo{
+  position: relative;
+  width: 30%;
+  margin: auto;
+  top: 10px;
+  left: 30px;
+}

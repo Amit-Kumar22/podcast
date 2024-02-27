@@ -1,0 +1,25 @@
+.detail-container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-episode button {
+    width: 100%;
+    cursor: pointer;
+}
+.banner{
+    width: 80%;
+}
+.pod-bannerImg img{
+    width: 100%;
+}
+body{
+    overflow-x: hidden;
+}
+@media screen and (max-width: 350px) {
+    .detail-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
